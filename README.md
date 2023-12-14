@@ -1,6 +1,4 @@
 # Jogo do número secreto
-
-<h1>Desenvolvimento</h1>
 Projeto desenvolvido com o curso de lógica de programação da Alura.
 
 <h1>O jogo</h1>
